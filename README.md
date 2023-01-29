@@ -1,4 +1,3 @@
-![banner](https://avatars.githubusercontent.com/u/5370748?v=4)
 
 
 - 👋 Hi, I’m @shopifywithjoe
